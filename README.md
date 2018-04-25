@@ -36,3 +36,4 @@ Do you think this video would be better if it were somewhere else in the curricu
 Any other comments or feedback you have? Raise an issue and let us know. 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-video-review-has-many-through-in-forms-lab'>Rails Video Review: Has Many Through in Forms Lab </a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Has Many Through in Forms Lab Review- Overview</p>
