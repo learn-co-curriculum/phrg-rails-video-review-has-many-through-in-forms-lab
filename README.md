@@ -35,5 +35,8 @@ Do you think this video would be better if it were somewhere else in the curricu
 
 Any other comments or feedback you have? Raise an issue and let us know. 
 
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-rails-video-review-has-many-through-in-forms-lab/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-rails-video-review-has-many-through-in-forms-lab/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-video-review-has-many-through-in-forms-lab'>Rails Video Review: Has Many Through in Forms Lab </a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Has Many Through in Forms Lab Review- Overview</p>
